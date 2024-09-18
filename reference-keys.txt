@@ -1,0 +1,14 @@
+Concept
+微分方程
+微分方程的解
+动力系统
+Solve
+变量分离与代换
+常数变易
+恰当方程
+隐式方程
+Proof
+Introduction
+a.motivation
+b.heuristics
+c.itos-formula
